@@ -23,3 +23,11 @@ This repository exists to document values, decisions, and long-term vision.
 ## Links
 Website: https://allinonetools.net  
 Main GitHub: https://github.com/AllInOneTools-net
+
+## Tool Categories
+
+- [Calculation Tools](./calculators.md)
+- [Conversion Tools](./converters.md)
+- [PDF Tools](./pdf-tools.md)
+- [Image Tools](./image-tools.md)
+- [SEO Tools](./seo-tools.md)
