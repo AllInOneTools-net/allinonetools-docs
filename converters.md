@@ -28,7 +28,7 @@ Convert PDF files into fully editable Word documents while preserving formatting
 Convert multiple images (JPG, PNG, WebP) into a single high-quality PDF file.
 
 **Common Uses:** Scanned documents, ID proofs, assignments  
-**Tool:** https://allinonetools.net/image-to-pdf
+**Tool:** https://allinonetools.net/image-to-pdf-converter
 
 ---
 
@@ -44,7 +44,7 @@ Convert Word documents into secure, shareable PDF files without layout loss.
 Convert numeric values into words accurately for financial and legal use.
 
 **Common Uses:** Cheques, accounting, legal documents  
-**Tool:** https://allinonetools.net/number-to-words-converter/
+**Tool:** https://allinonetools.net/number-to-words-converter
 
 ---
 
