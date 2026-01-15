@@ -87,7 +87,7 @@ The **Age Calculator** accurately calculates a person’s **exact age** based on
 - Clean and simple UI
 
 **Tool URL:**  
-https://allinonetools.net/age-calculator
+https://allinonetools.net/age-date-time-calculator
 
 ---
 
